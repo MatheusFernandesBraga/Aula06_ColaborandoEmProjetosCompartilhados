@@ -1,2 +1,2 @@
-# Aula06_ColaborandoEmProjetosCompartilhados
-Aula de Git - Colaboração em Projetos Compartilhados
+# Aula05_PBE2_GitHub
+Aula de sistemas de controle de versões distribuídas
