@@ -1,5 +1,9 @@
 :root {
+<<<<<<< HEAD
     --prev-next-opacity: 0.7;
+=======
+    --prev-next-opacity: 0.7; 
+>>>>>>> 4acf2eb95af7a5f39f51a136b265487e6c319df8
 }
 
 body {
@@ -10,8 +14,12 @@ body {
     height: 100vh;
     background-color: #f0f0f0;
     margin: 0;
+<<<<<<< HEAD
     font-family: sans-serif;
 
+=======
+    font-family: Arial, sans-serif;
+>>>>>>> 4acf2eb95af7a5f39f51a136b265487e6c319df8
 }
 
 h1 {
@@ -55,7 +63,11 @@ h1 {
     height: 100%;
     object-fit: cover;
     border-radius: 10px;
+<<<<<<< HEAD
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+=======
+    box-shadow: rgba(0, 0, 0, 0.1);
+>>>>>>> 4acf2eb95af7a5f39f51a136b265487e6c319df8
 }
 
 .slide .info {
@@ -101,6 +113,10 @@ button.anterior {
 
 button.proximo {
     right: 10px;
+<<<<<<< HEAD
 }
 
     
+=======
+}
+>>>>>>> 4acf2eb95af7a5f39f51a136b265487e6c319df8
